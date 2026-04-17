@@ -1,6 +1,8 @@
 <div align="center" width="50">
+  
+<img src="C:\Users\Anas Osama\Downloads\ascii-art-text.png" width="500"/>
 
-<h1>Hi 👋 I'm Anas Osama | أنس اسامه</h1>
+<h1>Hi 👋 I'm Anas Osama</h1>
 <h3>🚀 Full-Stack Developer | Problem Solver | Builder</h3>
 
 <p>
