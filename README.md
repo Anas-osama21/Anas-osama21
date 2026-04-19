@@ -15,7 +15,7 @@ I build scalable web applications, craft clean UI/UX, and turn ideas into real p
 
 <div align="center" style="margin-bottom:200px">
  <img width=45% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Anas-osama21&theme=radical&date_format=j%20M%5B%20Y%5D" />
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anas-osama21&show_icons=true&theme=tokyonight" width="45%" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anas-osama21&show_icons=true&theme=radical" width="45%" />
 </div>
 
 <br>
