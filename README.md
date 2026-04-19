@@ -1,28 +1,29 @@
 <div align="center" width="50">
   
-<img src="Anas-Osama-full.png" width="500"/>
+<img src="banner.png"/>
 
-<h1>Hi 👋 I'm Anas Osama</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=87B2BB&size=35&center=true&vCenter=true&width=1000&lines=As-Salamu+Alaykum!;My+name+is+Anas+Osama;Welcome+to+my+github+account)](https://git.io/typing-svg)
+
+<h3 align="center">"Make it work, make it right, make it fast."</h3>
 <h3>🚀 Full-Stack Developer | Problem Solver | Builder</h3>
 
 <p>
 I build scalable web applications, craft clean UI/UX, and turn ideas into real products.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Anas-osama21&style=flat&color=orange&label=PROFILE+VIEWS"/>
+<br>
 
+<div align="center" style="margin-bottom:200px">
+ <img width=45% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Anas-osama21&theme=radical&date_format=j%20M%5B%20Y%5D" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anas-osama21&show_icons=true&theme=tokyonight" width="45%" />
 </div>
 
----
+<br>
+</div>
 
-## 👨‍💻 About Me
+![](https://komarev.com/ghpvc/?username=Anas-osama21)
 
-- 💻 Full-stack developer (Frontend + Backend)
-- ⚡ Passionate about building real-world projects & startups
-- 🎯 Focused on performance, clean code, and modern tech stacks
-- 🧠 Always learning & leveling up
-
----
+<br>
 
 ## 🚀 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -46,7 +47,16 @@ I build scalable web applications, craft clean UI/UX, and turn ideas into real p
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat&logo=vercel&logoColor=000000)
 
----
+<br>
+
+## 👨‍💻 About Me
+
+- 💻 Full-stack developer (Frontend + Backend)
+- ⚡ Passionate about building real-world projects & startups
+- 🎯 Focused on performance, clean code, and modern tech stacks
+- 🧠 Always learning & leveling up
+
+<br>
 
 ## 🧠 Currently Working On
 
@@ -54,28 +64,10 @@ I build scalable web applications, craft clean UI/UX, and turn ideas into real p
 - 🧩 Advanced Full-stack systems & scalable architecture
 - 🎨 UI/UX improvements & design systems
 
----
+<br>
 
-## 📫 Connect With Me
-
-- 💼 GitHub: https://github.com/Anas-osama21
-- 📩 Email: anasosama21class@gmail.com
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anas-osama21&show_icons=true&theme=tokyonight" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-osama21&theme=tokyonight" width="45%" />
-
+## Contact me:
+<div>
+<a href = "mailto: anasosama21class@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/anas-osama214/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
----
-
-## ⚡ Fun Fact
-
-> Debugging is like being a detective in a crime movie where you are also the criminal 😂
-
----
